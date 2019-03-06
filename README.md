@@ -1,6 +1,6 @@
 # Graph Visualizer
 
-Github page: <https://redhairdragon.github.io/Graph-Visualizer/> (Your can Download )
+Github page: <https://redhairdragon.github.io/Graph-Visualizer/> (Your can download test.csv)
 
 Our project takes an adjacency matrix from a CSV file and processes it such that all of the nodes and edges can be properly visualized in 3D-space. Each node has a unique color and label so that the user can properly identify the corresponding nodes from the adjacency matrix. The label and color can be changed at the user's discretion using the table above the canvas. The user can interact with the graph in three distinct ways. 
 
